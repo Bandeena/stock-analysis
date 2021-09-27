@@ -8,7 +8,7 @@ The purpose of this analysis is to allow the end user the ability to analyze sto
 I was unable to get this macro to process correctly.
 
 ## Summary
-**What are the advantages or disadvantages of refactoring code?**
+#### **What are the advantages or disadvantages of refactoring code?**
 *Refactoring code has the clear advantage of making a block of code more efficient for a computer to run and easier for other coders to read.*
-**How do these pros and cons apply to refactoring the original VBA script?**
+#### **How do these pros and cons apply to refactoring the original VBA script?**
 *With this project, we tracked the time it took for the computer to process the required analysis, and saw a marked improvement in run time once the code was refactoed.*
